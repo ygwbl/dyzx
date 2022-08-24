@@ -7,7 +7,7 @@
 # 模板消息id，替换掉下方文字内容，不要删除双引号
 "template_id": "yKmmbjSma4maFEqJtSe4JhNbsX3fEUiYEaK5lBWRV1c",
 # 接收公众号消息的微信号（user-id），如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o5f_s6pRdR-kNeepHW6BeiOuMNEM"],
+"user": ["o5f_s6pRdR-kNeepHW6BeiOuMNEM","o5f_s6sDebkJBOylanfETkmusVO4"],
 # 信息配置
 
 
